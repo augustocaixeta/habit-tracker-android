@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="917" viewBox="0 0 412 917">
+<g id="01 Login">
+<rect id="Fundo" x="0" y="0" width="412" height="917" rx="0" fill="#F7F8F6"/>
+<text id="Status bar" x="24" y="25.3" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#1B2420" text-anchor="start">9:41</text>
+<g id="Logo">
+<rect x="24" y="72" width="64" height="64" rx="18" fill="#2E7D5B"/>
+<g id="Ícone check" transform="translate(38 86) scale(1.5000)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#FFFFFF"/></g>
+</g>
+<text id="Título" x="24" y="200.5" font-family="Roboto, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2420" text-anchor="start">Bem-vindo de volta</text>
+<text id="Subtítulo" x="24" y="233.3" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="400" fill="#49454F" text-anchor="start">Entre para acompanhar seus hábitos</text>
+<g id="Campo E-mail">
+<rect x="24" y="276" width="364" height="56" rx="14" fill="#FFFFFF" stroke="#79747E" stroke-width="1"/>
+<g id="Ícone email" transform="translate(38 292) scale(1.0000)"><path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z" fill="#49454F"/></g>
+<text x="76" y="309.2" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="400" fill="#49454F" text-anchor="start">E-mail</text>
+</g>
+<g id="Campo Senha">
+<rect x="24" y="344" width="364" height="56" rx="14" fill="#FFFFFF" stroke="#79747E" stroke-width="1"/>
+<g id="Ícone lock" transform="translate(38 360) scale(1.0000)"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM9 6c0-1.66 1.34-3 3-3s3 1.34 3 3v2H9V6zm9 14H6V10h12v10zm-6-3c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z" fill="#49454F"/></g>
+<text x="76" y="377.2" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="400" fill="#49454F" text-anchor="start">Senha</text>
+<g id="Ícone visibility" transform="translate(350 360) scale(1.0000)"><path d="M12 6c3.79 0 7.17 2.13 8.82 5.5C19.17 14.87 15.79 17 12 17s-7.17-2.13-8.82-5.5C4.83 8.13 8.21 6 12 6m0-2C7 4 2.73 7.11 1 11.5 2.73 15.89 7 19 12 19s9.27-3.11 11-7.5C21.27 7.11 17 4 12 4zm0 5c1.38 0 2.5 1.12 2.5 2.5S13.38 14 12 14s-2.5-1.12-2.5-2.5S10.62 9 12 9m0-2c-2.48 0-4.5 2.02-4.5 4.5S9.52 16 12 16s4.5-2.02 4.5-4.5S14.48 7 12 7z" fill="#49454F"/></g>
+</g>
+<text id="Esqueci minha senha" x="376" y="437.3" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#2E7D5B" text-anchor="end">Esqueci minha senha</text>
+<g id="Botão Entrar">
+<rect x="24" y="464" width="364" height="52" rx="14" fill="#2E7D5B"/>
+<text x="206.0" y="496.6" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="600" fill="#FFFFFF" text-anchor="middle">Entrar</text>
+</g>
+<g id="Link Criar conta">
+<text x="104.7" y="552.3" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2420" text-anchor="start">Não tem conta?</text>
+<text x="221.5" y="551.3" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#2E7D5B" text-anchor="start">Criar conta</text>
+</g>
+</g>
+</svg>

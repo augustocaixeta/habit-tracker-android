@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622192813398",
+    "project_id": "habittracker-iftm",
+    "storage_bucket": "habittracker-iftm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622192813398:android:c4464462c2eaa04b5aa2f7",
+        "android_client_info": {
+          "package_name": "br.edu.iftm.habittracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN6CSHgA_ao84KaGmyuUEYNQhSJcdCNKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

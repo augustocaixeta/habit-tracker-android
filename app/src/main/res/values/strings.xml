@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="cd_back">Voltar</string>
+    <string name="cd_logout">Sair</string>
+    <string name="cd_delete_habit">Excluir hábito</string>
+    <string name="cd_show_password">Mostrar senha</string>
+    <string name="cd_hide_password">Ocultar senha</string>
+    <string name="cd_mark_done">Marcar como feito</string>
+    <string name="cd_mark_not_done">Marcar como não feito</string>
+
+    <string name="login_title">Bem-vindo de volta</string>
+    <string name="login_subtitle">Entre para acompanhar seus hábitos</string>
+    <string name="login_forgot_password">Esqueci minha senha</string>
+    <string name="login_action">Entrar</string>
+    <string name="login_no_account">Não tem conta?</string>
+    <string name="login_create_account">Criar conta</string>
+
+    <string name="register_title">Crie sua conta</string>
+    <string name="register_subtitle">Comece hoje a construir bons hábitos</string>
+    <string name="register_action">Cadastrar</string>
+    <string name="register_has_account">Já tem conta?</string>
+
+    <string name="field_name">Nome</string>
+    <string name="field_email">E-mail</string>
+    <string name="field_password">Senha</string>
+    <string name="field_password_new">Senha (mín. 6 caracteres)</string>
+    <string name="field_password_confirm">Confirmar senha</string>
+
+    <string name="auth_error_name_required">Informe seu nome.</string>
+    <string name="auth_error_email_invalid">Informe um e-mail válido.</string>
+    <string name="auth_error_password_required">Informe sua senha.</string>
+    <string name="auth_error_password_short">A senha deve ter pelo menos 6 caracteres.</string>
+    <string name="auth_error_password_mismatch">As senhas não conferem.</string>
+    <string name="auth_error_reset_email_required">Digite seu e-mail para recuperar a senha.</string>
+    <string name="auth_error_invalid_credentials">E-mail ou senha incorretos.</string>
+    <string name="auth_error_user_disabled">Esta conta foi desativada.</string>
+    <string name="auth_error_email_in_use">Este e-mail já está cadastrado.</string>
+    <string name="auth_error_too_many_requests">Muitas tentativas. Tente novamente mais tarde.</string>
+    <string name="auth_error_network">Sem conexão com a internet.</string>
+    <string name="auth_error_unknown">Não foi possível concluir. Tente novamente.</string>
+    <string name="auth_reset_sent">Enviamos um link de recuperação para %1$s.</string>
+
+    <string name="list_greeting">Olá, %1$s</string>
+    <string name="list_date_pattern">EEEE, d \'de\' MMMM</string>
+    <string name="list_progress_title">Progresso de hoje</string>
+    <string name="list_progress_count">%1$d de %2$d concluídos</string>
+    <string name="list_section_today">Hábitos de hoje</string>
+    <plurals name="list_streak">
+        <item quantity="one">%d dia seguido</item>
+        <item quantity="other">%d dias seguidos</item>
+    </plurals>
+    <string name="list_streak_empty">Comece sua sequência hoje</string>
+    <string name="list_add_habit">Novo hábito</string>
+    <string name="list_empty_title">Nenhum hábito ainda</string>
+    <string name="list_empty_message">Toque em \"Novo hábito\" para cadastrar o primeiro e começar a acompanhar seu dia.</string>
+    <string name="logout_title">Sair da conta?</string>
+    <string name="logout_message">Seus hábitos continuam salvos neste aparelho.</string>
+    <string name="logout_confirm">Sair</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <string name="form_title_new">Novo hábito</string>
+    <string name="form_title_details">Detalhes do hábito</string>
+    <string name="form_section_edit">Editar</string>
+    <string name="form_preview_placeholder">Seu novo hábito</string>
+    <string name="form_field_title">Nome do hábito</string>
+    <string name="form_field_title_hint">Ex.: Beber 2 L de água</string>
+    <string name="form_field_description">Descrição (opcional)</string>
+    <string name="form_field_description_hint">Por que esse hábito é importante?</string>
+    <string name="form_error_title_required">Dê um nome ao hábito.</string>
+    <string name="form_section_icon">Ícone</string>
+    <string name="form_section_color">Cor</string>
+    <string name="form_action_create">Cadastrar hábito</string>
+    <string name="form_action_save">Salvar alterações</string>
+    <string name="delete_title">Excluir hábito?</string>
+    <string name="delete_message">O histórico deste hábito também será apagado.</string>
+    <string name="delete_confirm">Excluir</string>
+
+    <string name="details_today">Hoje</string>
+    <string name="details_done">Feito</string>
+    <string name="details_not_done">Não feito</string>
+    <string name="details_streak">Sequência atual</string>
+    <plurals name="details_streak_value">
+        <item quantity="one">%d dia</item>
+        <item quantity="other">%d dias</item>
+    </plurals>
+    <string name="details_total">Total concluído</string>
+    <string name="details_last_days">Últimos 7 dias</string>
+
+    <string name="icon_check">Geral</string>
+    <string name="icon_water">Água</string>
+    <string name="icon_book">Leitura</string>
+    <string name="icon_run">Exercício</string>
+    <string name="icon_meditate">Meditação</string>
+    <string name="icon_food">Alimentação</string>
+    <string name="icon_sleep">Sono</string>
+    <string name="icon_code">Estudo</string>
+    <string name="icon_music">Música</string>
+    <string name="icon_plant">Plantas</string>
+</resources>
