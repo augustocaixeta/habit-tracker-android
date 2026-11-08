@@ -175,6 +175,12 @@ Ao abrir o app, se `currentUser` não for nulo, a listagem é definida como tela
 
 O `uid` do usuário autenticado é usado como chave de armazenamento dos hábitos.
 
+### Usuários no console do Firebase
+
+Contas criadas pela tela de registro do app aparecem no console do Firebase, em Authentication, com o provedor E-mail/senha.
+
+![Usuários cadastrados no Firebase Authentication](docs/firebase-auth-users.png)
+
 ## Comparação entre o Figma e o app
 
 | Tela | Figma | App |
